@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-size: cover;
+}
+
+.table-light1 {
+    background-color: rgba(223, 220, 217, 0.418);
+}
+
+.techkeyadr {
+    position: relative;
+    right: 5px;
+    font-size: small;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 35px;
+}

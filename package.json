@@ -1,0 +1,24 @@
+{
+  "name": "pdf-genereator",
+  "version": "1.0.0",
+  "description": "Pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Njoroge",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "easyinvoice": "^1.0.147",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "file-url": "^4.0.0",
+    "html-pdf-node": "^1.0.7",
+    "mysql": "^2.18.1",
+    "nice-invoice": "^1.1.4",
+    "pdf-creator-node": "^2.2.4",
+    "puppeteer": "^10.4.0"
+  }
+}
